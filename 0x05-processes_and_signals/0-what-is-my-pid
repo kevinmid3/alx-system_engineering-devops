@@ -1,4 +1,4 @@
-#!/usr/bin/evn bash
-#This scripts shows and displays its own PID
+#!/usr/bin/env bash
+# This displays and shows its own PID.
 
 echo $$
