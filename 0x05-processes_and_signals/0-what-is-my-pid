@@ -1,5 +1,4 @@
 #!/usr/bin/evn bash
-# This scripts shows how to write a bash that will display its own PID
-
+#This scripts shows and displays its own PID
 
 echo $$
