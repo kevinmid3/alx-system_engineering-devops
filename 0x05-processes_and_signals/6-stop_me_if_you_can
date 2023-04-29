@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This Kills the 4-to_infinity_and_beyond process using -f to find the key word.
+
+pkill -f 4-to_infinity_and_beyond
