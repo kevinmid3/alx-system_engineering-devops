@@ -1,4 +1,4 @@
 #!/usr/bin/evn bash
 # This scripts shows how to write a bash that will display its own PID
 
-echo $$
+echo $!
