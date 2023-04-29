@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# this displays all processes (a): user-oriented (u), w/wo TTY (x), show heirachy (f)
+# This displays all processes (a): user-oriented (u), w/wo TTY (x), show heirachy (f)
 
 
 ps -auxf
